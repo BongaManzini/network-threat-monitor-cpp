@@ -1,8 +1,10 @@
 bin/
 obj/
+build/
 *.exe
 *.o
 *.obj
 .vs/
 *.user
 *.suo
+*.log
